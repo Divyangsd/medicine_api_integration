@@ -1,0 +1,7 @@
+First API :
+
+curl --location 'http://localhost:2000/api/v1/drugsDetails/azithromycin pill'
+
+Second API :
+
+curl --location 'http://localhost:2000/api/v1/proprietaryInfo/141962'
